@@ -1,0 +1,6 @@
+screenshot-*.png
+shot-*.png
+README.md
+.git/
+.gitignore
+.vercel/

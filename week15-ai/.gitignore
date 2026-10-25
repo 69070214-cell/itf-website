@@ -1,0 +1,5 @@
+screenshot-*.png
+shot-*.png
+.vercel/
+.DS_Store
+Thumbs.db
